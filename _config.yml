@@ -17,15 +17,15 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "MATKUL PROYEK - 1"
-title_separator          : "Website ini ditujukan untuk memenuhi tugas Task 3.6"
-subtitle                 : "# site tagline that appears below site title in masthead"
-name                     : "Afdal Ramdan Daman Huri"
+title_separator          : "Task 3.6"
+subtitle                 : "Website ini ditujukan untuk memenuhi tugas Task 3.6"
+name                     : "afdalrdh"
 description              : "Website terbaik sedunia."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://afdalrdh.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/afdalrdh/afdalrdh.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -56,7 +56,7 @@ staticman:
     email                : # "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "30/12/1999"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
@@ -84,10 +84,10 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "afdalrdh"
 facebook:
-  username               :
-  app_id                 :
+  username               : "afdalrdh"
+  app_id                 : 
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -107,30 +107,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Afdal Ramdan Daman Huri"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Afdal Ramdan D H."
+  avatar           : "assets/images/logo.png"
   bio              : "I am an Polban Student."
-  location         : "Cimahi"
-  email            :
+  location         : "Kebon kopi"
+  email            : "afdalramdan@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://afdalrdh.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/afdalrdh"
+      url: "https://twitter.com/afdalrdh"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/afdalrdh"
+      url: "https://facebook.com/afdalrdh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/afdalrdh"
+      url: "https://github.com/afdalrdh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/afdalrdh"
+      url: "https://instagram.com/afdalrdh"
 
 # Site Footer
 footer:
